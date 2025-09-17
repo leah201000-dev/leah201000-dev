@@ -1,10 +1,10 @@
-# Hi, I'm Lea 👋
+#2 Hi, I'm Lea 👋
 
 ## About Me
 Cybersecurity enthusiast focused on SOC operations, threat analysis, and incident response.  
 Currently learning and building hands-on experience with security tools, network monitoring, and log analysis.  
 
-## Skills & Tools
+## 𝓢𝓴𝓲𝓵𝓵𝓼 & 𝓣𝓸𝓸𝓵𝓼
 - **Security Tools:** Splunk, Wireshark, Security Onion, Snort, Suricata, pfSense  
 - **Networking:** TCP/IP, DNS, VPNs, Firewalls, Network Segmentation  
 - **Scripting:** Python, Bash, PowerShell  
@@ -23,18 +23,18 @@ Currently learning and building hands-on experience with security tools, network
 ![Suricata](https://img.shields.io/badge/Suricata-Red?style=for-the-badge&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-Blue?style=for-the-badge&logoColor=white)
 
-## Projects 📌
+## 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 📌
 - [Splunk Lab 1](https://github.com/leah201000-dev/splunk-lab1) — Hands-on project analyzing logs and monitoring events in Splunk.  
 
 *(More projects coming soon as I continue learning and building my SOC portfolio.)*
 
-## Certifications & Learning 📃
+## 𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓽𝓲𝓸𝓷𝓼 & 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 📃
 - CompTIA Security+ (in progress)
 - CompTIA Network+ (In progress)
 - **Intro to Cybsecurity** - Certificate of completion, Girls Who Code
 - **Intro to Cryptography** - Certificate of completion, Girls Who Code    
 - Ongoing hands-on labs and capture-the-flag challenges  
 
-## Contact 📩
+## 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 📩
 - [GitHub](https://github.com/leah201000-dev)  
 - [LinkedIn](https://www.linkedin.com/in/lea-herrera-439b02301/) 
