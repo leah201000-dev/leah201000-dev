@@ -1,4 +1,4 @@
-#2 Hi, I'm Lea 👋
+## Hi, I'm Lea 👋
 
 ## About Me
 Cybersecurity enthusiast focused on SOC operations, threat analysis, and incident response.  
