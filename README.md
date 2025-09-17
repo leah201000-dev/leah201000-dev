@@ -24,7 +24,8 @@ Currently learning and building hands-on experience with security tools, network
 ![pfSense](https://img.shields.io/badge/pfSense-Blue?style=for-the-badge&logoColor=white)
 
 ### 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 📌
-- [Splunk Lab 1](https://github.com/leah201000-dev/splunk-lab1) — Hands-on project analyzing logs and monitoring events in Splunk.  
+- [Splunk Labs](https://github.com/leah201000-dev/splunk-lab1) — Hands-on project analyzing logs and monitoring events in Splunk.
+- [Wireshark Labs](https://github.com/leah201000-dev/Wireshark_Lab) — Captured and analyzed network traffic using Wireshark. Applied filters for HTTP, DNS, and TCP traffic, exported packet dissections, and documented findings for hands-on practice.    
 
 *(More projects coming soon as I continue learning and building my SOC portfolio.)*
 
